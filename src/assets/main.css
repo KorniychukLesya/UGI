@@ -1,0 +1,17 @@
+@import './base.css';
+@import 'leaflet/dist/leaflet.css';
+
+#app {
+  max-width: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  height: 100vh;
+}
+
+.pade {
+  width: 1024px;
+  background-color: #F1F3F7;
+  padding: 20px 27px;
+  
+}
